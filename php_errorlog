@@ -1,0 +1,75 @@
+[27-Jan-2025 11:56:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 11:57:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 12:02:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[27-Jan-2025 12:02:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[28-Jan-2025 12:30:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/signup.php(14): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/signup.php on line 14
+[28-Jan-2025 12:50:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[28-Jan-2025 12:50:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php:9
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php(9): mysqli->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/watch.php on line 9
+[28-Jan-2025 13:02:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbu2ituuxcibjw.tvshows' doesn't exist in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/tvshows.php:12
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/tvshows.php(12): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/tvshows.php on line 12
+[29-Jan-2025 12:01:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Netflix/signup.php(14): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Netflix/signup.php on line 14
